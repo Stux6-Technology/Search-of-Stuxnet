@@ -1,7 +1,9 @@
+<img width="1920" height="1080" alt="stuxnet" src="https://github.com/user-attachments/assets/0befe6f2-d25f-4e0b-8f6c-27dfc3157a9e" />
 
-**Author:** Alperen ERKAN  
-**ORCID:** [0009-0003-9737-6433](https://orcid.org/0009-0003-9737-6433)  
-**Organization:** Stux6 Technology
+> [!Note]
+> - [ ] **Author:** Alperen ERKAN  
+> - [ ] **ORCID:** [0009-0003-9737-6433](https://orcid.org/0009-0003-9737-6433)
+> - [ ] **Organization:** Stux6 Technology
 
 ## Purpose of the Project
 This repository has been established exclusively to host the comprehensive research files, datasets, and documentation for an upcoming multi-disciplinary academic monograph. The primary objective is to bridge the gap between digital cyber-warfare analysis and physical geospatial intelligence.
